@@ -1,235 +1,238 @@
-# 👋 Hi, I'm Yusuf Maryam Adeshewa
+# 🙋 Introducing Myself
 
-### Data Science | Machine Learning | AI | Data Analysis | Software Engineering
+Hello, I'm **Yusuf Maryam Adeshewa**, passionate about **Data Science, Machine Learning, Data Analysis, Software Engineering, Artificial Intelligence, and Generative AI**.
 
-I'm a **First Class Computer Science graduate** passionate about using technology and data to solve real-world problems.
+## 👨‍🎓 About Me 💼🎒
 
-My interests and experience span across **Data Science, Machine Learning, Artificial Intelligence, Data Analysis, Business Intelligence, and Software Development**.
+I hold a **First Class Bachelor's Degree in Computer Science** from [Kwara State University](https://portal.kwasu.edu.ng/).
 
-I enjoy learning new technologies, working with data, building practical solutions, and continuously improving my technical skills.
+I have practical experience in **data analysis, business intelligence, machine learning, artificial intelligence, and software development** through professional internships, volunteer work, and personal projects.
 
----
+I enjoy solving real-world problems with data and technology, learning new tools, and building practical solutions.
 
-## 👨‍🎓 About Me
+### 💼 Professional Experience
 
-I hold a **First Class B.Sc. in Computer Science** from **Kwara State University (KWASU), Nigeria**.
+* [International Institute of Tropical Agriculture (IITA)](https://www.iita.org/) | **Business Intelligence & Data Intern**
+* [Dala Innovation](https://dalainnovation.com/) | **Machine Learning Intern**
+* [Kwara Tech](https://www.kwaratech.ng/) | **Frontend Developer Intern**
 
-I have gained practical experience through internships, volunteer work, and personal projects in:
+### 🤝 Volunteer Experience
 
-* 📊 Data Analysis and Business Intelligence
-* 🤖 Machine Learning and Artificial Intelligence
-* 🧠 Natural Language Processing
-* 💻 Software and Frontend Development
-* 🗄️ Database Design and Data Management
-* 📈 Data Visualization
+* [Sec Concepts Network](https://trainwithsec.com/) | **Brand Manager**
 
-I currently work as a **Business Intelligence & Data Intern at the International Institute of Tropical Agriculture (IITA)**, where I work with data, Power BI dashboards, databases, and internal software/data management tasks.
-
-I have also worked as a **Machine Learning Intern at Dala Innovation** and a **Frontend Web Development Intern at Kwara Tech Company**.
+📄 **[View My Resume/CV](https://drive.google.com/file/d/1N-kHSf8A33UtUSIF52satgSpcadetTqU/view?usp=sharing)**
 
 ---
 
-# 💼 Professional Experience
+# 📚 Projects
 
-### 🌾 International Institute of Tropical Agriculture (IITA)
-
-**Business Intelligence & Data Intern (NYSC)**
-
-* Developed interactive Power BI dashboards to support data-driven decision-making.
-* Designed and implemented relational databases for institutional data.
-* Worked with agricultural datasets to generate useful insights.
-* Supported internal software and data management tasks using C#.
-* Collaborated with multidisciplinary teams in an international research environment.
-
-### 🤖 Dala Innovation
-
-**Machine Learning Intern**
-
-* Contributed to an AI-powered language translation system for African languages.
-* Collected, cleaned, and refined linguistic datasets for machine learning applications.
-* Researched responsible AI deployment in emerging digital economies.
-* Explored how AI systems can be adapted to African communities and cultural contexts.
-
-### 💻 Kwara Tech Company
-
-**Frontend Web Development Intern**
-
-* Gained practical experience building and maintaining web applications.
-* Worked on debugging and improving website functionality.
-* Developed an understanding of frontend development best practices.
-
-### 📣 Sec-Concepts Networks
-
-**Volunteer Brand Manager**
-
-* Managed aspects of the organization's digital brand presence.
-* Worked on website styling and visual improvements.
-* Transitioned website styling from Bootstrap to standard CSS to allow greater customization.
+Below are some of my projects across **Machine Learning, Deep Learning, Natural Language Processing, Data Science, and Software Development**.
 
 ---
 
-# 📚 Featured Projects
+## 🧠 Deep Learning & Artificial Intelligence
 
-Here are some of the projects I have worked on across **Machine Learning, Data Science, and Software Development**.
+### 🧠 Brain Tumor MRI Classification
+
+A deep learning project focused on classifying brain MRI images into four categories:
+
+* Glioma
+* Meningioma
+* Pituitary Tumor
+* No Tumor
+
+I compared three different approaches:
+
+* **MobileNetV2 Transfer Learning**
+* **Custom Convolutional Neural Network (CNN)**
+* **SVM using MobileNetV2-extracted features**
+
+### 📊 Results
+
+| Model                         | Test Accuracy |
+| ----------------------------- | ------------: |
+| 🥇 SVM + MobileNetV2 Features |    **92.50%** |
+| 🥈 MobileNetV2                |    **88.75%** |
+| 🥉 Custom CNN                 |    **66.25%** |
+
+One of the key findings was that combining **deep feature extraction with a traditional SVM classifier** produced better results than using MobileNetV2 or the custom CNN alone.
+
+🔗 **[View Brain Tumor MRI Classification Project](https://github.com/Heryourmeekun/brain-tumor-mri-classification)**
+
+**Tools:** `Python` `TensorFlow` `Keras` `MobileNetV2` `CNN` `Scikit-learn` `SVM` `NumPy` `Matplotlib`
 
 ---
 
-## 🤖 Recipe Traffic Prediction
+### 📰 BBC News Text Classification
 
-A machine learning project focused on predicting whether a recipe would attract high website traffic.
+A Natural Language Processing project focused on automatically classifying BBC news articles into five categories:
 
-### What I Did
+* Business
+* Entertainment
+* Politics
+* Sport
+* Technology
 
-* Cleaned and validated the dataset.
-* Handled missing values, duplicates, and outliers.
-* Performed exploratory data analysis.
-* Applied Yeo-Johnson transformation to handle skewed data.
-* Built and evaluated Logistic Regression and Decision Tree models.
-* Defined a **High Traffic Conversion Rate (HTCR)** business KPI.
+I compared two deep learning approaches:
 
-### Result
+* **LSTM**
+* **Transformer/BERT**
 
-The Logistic Regression model achieved approximately **80% accuracy and precision**.
+### 📊 Results
 
-The analysis also identified recipe categories that were strong traffic drivers.
+| Model | Test Accuracy |
+| ----- | ------------: |
+| BERT  |       **36%** |
+| LSTM  |       **25%** |
 
-🔗 **[View Project](https://github.com/Heryourmeekun/Recipe_Traffic_Prediction)**
+Although the results were lower than expected, the project provided valuable insight into **NLP model behavior, class bias, fine-tuning, computational limitations, and model evaluation**.
 
-**Tools:**
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Jupyter Notebook`
+🔗 **[View BBC News Text Classification Project](https://github.com/Heryourmeekun/BBC-News-Text-Classification)**
+
+**Tools:** `Python` `TensorFlow` `Keras` `LSTM` `BERT` `NLP` `Scikit-learn`
 
 ---
 
-## 🚢 Titanic Survival Prediction
+# 🤖 Machine Learning & Data Science
 
-A machine learning project focused on predicting whether a passenger survived the Titanic disaster.
+### 🚢 Titanic Survival Prediction
 
-### What I Did
+A machine learning classification project that predicts passenger survival using the Titanic dataset.
 
-* Cleaned and prepared the dataset.
-* Handled missing values and inconsistent entries.
-* Created useful features such as passenger titles and child indicators.
-* Built and evaluated machine learning models.
-* Used CatBoost for classification.
-* Applied hyperparameter tuning.
-* Evaluated model performance.
+The project involved:
 
-### Result
+* Data cleaning
+* Feature engineering
+* Exploratory data analysis
+* Model training
+* Model evaluation
+* CatBoost classification
 
-🏆 **Kaggle Leaderboard Score: 0.82057**
+🏆 **Kaggle Score: 0.82057**
 
 🔗 **[View Project](https://github.com/Heryourmeekun/Titanic_Survival_Prediction)**
 
-**Tools:**
-`Python` `Pandas` `Scikit-learn` `CatBoost` `Jupyter Notebook`
+**Tools:** `Python` `Pandas` `Scikit-learn` `CatBoost` `Jupyter Notebook`
 
 ---
 
-## 🚗 Don't Get Kicked!
+### 🍳 Recipe Traffic Prediction
 
-A machine learning project focused on predicting risky car purchases.
+A machine learning project focused on predicting whether a recipe would generate high website traffic.
 
-### What I Did
+The project involved:
 
-* Prepared and explored the dataset.
-* Built classification models for predicting risky purchases.
-* Compared different machine learning approaches.
-* Used LightGBM and other classification models.
-* Applied model evaluation techniques.
-* Generated predictions for the Kaggle competition.
+* Data cleaning
+* Exploratory data analysis
+* Feature engineering
+* Statistical analysis
+* Classification modelling
+* Model evaluation
+
+Models explored included:
+
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* XGBoost
+* LightGBM
+* CatBoost
+
+🔗 **[View Project](https://github.com/Heryourmeekun/Recipe_Traffic_Prediction)**
+
+**Tools:** `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `Matplotlib`
+
+---
+
+### 🚗 Don't Get Kicked
+
+A machine learning classification project focused on predicting whether a vehicle purchase is likely to result in a problematic outcome.
+
+The project involved data preprocessing, exploratory analysis, feature engineering, model training, and evaluation.
 
 🔗 **[View Project](https://github.com/Heryourmeekun/Dont_Get_Kicked)**
 
-**Tools:**
-`Python` `Pandas` `Scikit-learn` `LightGBM` `XGBoost` `Machine Learning`
-
----
-
-## 🏡 Villa Agency
-
-A frontend web development project for a real estate agency website.
-
-This project demonstrates my experience with **frontend development, web design, user interfaces, and building responsive websites**.
-
-🔗 **[View Project](https://github.com/Heryourmeekun/Villa_Agency)**
-
-**Area:**
-`Frontend Development` `Web Development` `HTML` `CSS` `JavaScript`
-
----
-
-## 📱 USSD Transaction
-
-A JavaScript project that simulates a **USSD transaction system**.
-
-The project demonstrates my understanding of programming logic, user interaction, and building a simple transaction flow.
-
-🔗 **[View Project](https://github.com/Heryourmeekun/Ussd_Transaction)**
-
-**Tools:**
-`HTML` `JavaScript` `Web Development`
-
----
-
-# 📊 Business Intelligence & Data Projects
-
-## Power BI Dashboards
-
-During my experience at **IITA**, I worked with agricultural and institutional datasets to create interactive dashboards that support data-driven decision-making.
-
-My work includes:
-
-* Data cleaning and transformation
-* Data visualization
-* Dashboard development
-* KPI development
-* Data analysis
-* Power BI reporting
-
-**Tools:**
-`Power BI` `Microsoft Excel` `Data Analysis`
+**Tools:** `Python` `Pandas` `Scikit-learn` `LightGBM` `XGBoost` `Machine Learning`
 
 ---
 
 # 💻 Software Development
 
-I also have experience building software and frontend projects using technologies such as **HTML, CSS, JavaScript, and C#**.
+### 🏡 Villa Agency
 
-My software development projects include:
+A frontend web development project for a real estate agency website.
 
-* **Villa Agency** — Real estate website
-* **USSD Transaction** — USSD transaction simulation
-* **ATM Cards** — Software development project
+The project demonstrates practical experience with:
 
-These projects helped me develop practical skills in programming, problem solving, user interfaces, and software development.
+* Responsive web design
+* Website layouts
+* User interfaces
+* Frontend development
+* HTML, CSS, and JavaScript
+
+🔗 **[View Project](https://github.com/Heryourmeekun/Villa_Agency)**
+
+**Tools:** `HTML` `CSS` `JavaScript`
+
+---
+
+### 📱 USSD Transaction
+
+A JavaScript project that simulates a basic USSD transaction system.
+
+The project demonstrates programming logic, user interaction, and transaction flow implementation.
+
+🔗 **[View Project](https://github.com/Heryourmeekun/Ussd_Transaction)**
+
+**Tools:** `HTML` `JavaScript`
+
+---
+
+# 📊 Business Intelligence & Data Analysis
+
+I also have practical experience working with **Power BI, Microsoft Excel, data cleaning, data transformation, data visualization, and dashboard development**.
+
+During my experience at **IITA**, I worked with agricultural and institutional datasets to create reports and dashboards that support data-driven decision-making.
+
+### Areas of Experience
+
+* Data cleaning and transformation
+* Data analysis
+* Power BI dashboard development
+* KPI development
+* Data visualization
+* Business intelligence reporting
+* Working with agricultural datasets
+
+🔗 **Power BI projects and dashboards will be added here.**
 
 ---
 
 # 🛠️ Technical Skills
 
-### 👩‍💻 Programming
+### Programming
 
 `Python` `C#` `SQL` `HTML` `CSS` `JavaScript`
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 
-`Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `NLP` `Feature Engineering` `Statistical Modeling`
+`Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `TensorFlow` `Keras` `NLP` `LSTM` `BERT` `CNN` `MobileNetV2`
 
-### 📊 Data Science & Analysis
+### Data Science
 
-`Pandas` `NumPy` `SciPy` `Exploratory Data Analysis`
+`Pandas` `NumPy` `SciPy` `Matplotlib` `Seaborn` `Plotly`
 
-### 📈 Data Visualization
+### Business Intelligence
 
-`Power BI` `Matplotlib` `Seaborn` `Plotly` `Microsoft Excel`
+`Power BI` `Microsoft Excel` `Power Query` `DAX`
 
-### 🗄️ Databases
+### Databases
 
- `MySQL`
+`MySQL` `PostgreSQL`
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 
-`Git` `GitHub` `Jupyter Notebook` `Google Colab` `Conda`, `Visual Studio Code`, `Visual Studio`
+`Git` `GitHub` `Jupyter Notebook` `Google Colab` `Conda`
 
 ---
 
@@ -239,11 +242,9 @@ These projects helped me develop practical skills in programming, problem solvin
 
 **B.Sc. Computer Science — First Class Honours**
 
-2020 – 2024
-
 ---
 
-# 🏆 Certifications
+# 📜 Certifications
 
 * **Data Scientist Professional** — DataCamp
 * **Data Scientist Associate** — DataCamp
@@ -251,47 +252,25 @@ These projects helped me develop practical skills in programming, problem solvin
 
 ---
 
-# 📌 What I'm Currently Learning
+# 🌱 Currently Learning
 
 I am continuously developing my skills in:
 
 * Machine Learning
 * Artificial Intelligence
+* Natural Language Processing
 * Data Science
 * Data Analysis
-* Software Engineering
+* Power BI
 * C#
 * ASP.NET Core
-* Power BI
 * Database Development
 
-I believe in **learning by building**, so I regularly work on practical projects to strengthen my understanding and create useful solutions.
+I believe in **learning by building**, so I regularly work on practical projects to strengthen my skills and understanding.
 
 ---
 
-# 🌱 My Approach
-
-I believe good technology should solve real problems.
-
-When working on a project, I focus on:
-
-**Understand the problem → Explore → Plan → Build → Test → Evaluate → Improve**
-
-I am especially interested in projects where **AI, data, and software engineering** can be used to create practical solutions.
-
----
-
-# 📄 Resume / CV
-
-Interested in learning more about my experience?
-
-👉 **[View My Resume](https://drive.google.com/file/d/1N-kHSf8A33UtUSIF52satgSpcadetTqU/view?usp=sharing)**
-
----
-
-# 📫 Let's Connect
-
-I'm open to connecting with people and organizations working in **Data Science, AI, Machine Learning, Software Engineering, and Technology**.
+# 👋 Connect With Me
 
 ### 💼 LinkedIn
 
@@ -303,18 +282,10 @@ I'm open to connecting with people and organizations working in **Data Science, 
 
 ### 💻 GitHub
 
-[View my GitHub projects](https://github.com/Heryourmeekun)
-
-### 📧 Email
-
-**[yusufadesewa1234@gmail.com](mailto:yusufadesewa1234@gmail.com)**
+[Explore my GitHub repositories](https://github.com/Heryourmeekun)
 
 ---
 
-## ⭐ Thanks for Visiting!
+⭐ **Thanks for visiting my portfolio!**
 
-Thanks for taking the time to visit my portfolio.
-
-Feel free to explore my repositories and projects.
-
-**I'm always learning, building, and looking for opportunities to apply technology to real-world problems.**
+I'm always learning, building, and looking for opportunities to apply **data, AI, and software engineering** to real-world problems.
