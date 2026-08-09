@@ -8,14 +8,14 @@ Furthermore, I have a strong practical experience in software development, data 
 
 🔭 Below are some of the **companies I have worked for professionally as a data scientist, machine learning engineer and software engineer:**
 
-  - [International Institute of Tropical Agriculture](https://www.iita.org/) | Software Engineering Intern
+  - [International Institute of Tropical Agriculture](https://www.iita.org/) | Business Intelligence Intern
   - [Dala Innovation](https://dalainnovation.com) | Machine Learning Intern
   - [Kwara Tech](https://www.kwaratech.ng) | Frontend Developer Intern 
 
 🔭 Companies I have volunteered for:
   - [Sec Concepts Network](https://trainwithsec.com) | Brand Manager
 
-🔭 Checkout my [Resume/CV](https://drive.google.com/file/d/1XOvRGLl2MOOco1q8xcWgF3PR2J4lEGCn/view?usp=sharing)
+🔭 Checkout my [Resume/CV]()
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/AdesinaA/portfolio-directory/blob/main/readme.md).
 
