@@ -91,6 +91,32 @@ Although the results were lower than expected, the project provided valuable ins
 
 **Tools:** `Python` `TensorFlow` `Keras` `LSTM` `BERT` `NLP` `Scikit-learn`
 
+### 📊 IITA Financial Analysis Dashboard – Power BI
+
+An interactive Power BI dashboard developed during my Business Intelligence work at the International Institute of Tropical Agriculture (IITA).
+
+The project analyses financial performance, revenue trends, customer behaviour, sales performance, and order activity through an interactive multi-page Power BI report.
+
+**Key areas covered:**
+- Financial and revenue analysis
+- Customer insights and purchasing behaviour
+- Order and sales analysis
+- Monthly and daily sales trends
+- Customer revenue and order analysis
+- Payment status analysis
+- Month-over-month growth analysis
+- Interactive year and month filtering
+- Customer search functionality
+- KPI-driven dashboard design
+- Interactive insights and recommendations
+- Built-in report navigation and user instructions
+- Reset filters functionality
+
+**Tools & Technologies:**
+`Power BI` `DAX` `Power Query` `Data Modelling` `Data Visualization` `Business Intelligence`
+
+🔗 **[View Project on GitHub](https://github.com/Heryourmeekun/IITA-Financial-Analysis-PowerBI)**
+
 ---
 
 # 🤖 Machine Learning & Data Science
