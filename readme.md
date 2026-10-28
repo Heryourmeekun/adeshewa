@@ -20,8 +20,6 @@ I enjoy solving real-world problems with data and technology, learning new tools
 
 * [Sec Concepts Network](https://trainwithsec.com/) | **Brand Manager**
 
-📄 **[View My Resume/CV](https://drive.google.com/file/d/1N-kHSf8A33UtUSIF52satgSpcadetTqU/view?usp=sharing)**
-
 ---
 
 # 📚 Projects
@@ -57,7 +55,7 @@ I compared three different approaches:
 
 One of the key findings was that combining **deep feature extraction with a traditional SVM classifier** produced better results than using MobileNetV2 or the custom CNN alone.
 
-🔗 **[View Brain Tumor MRI Classification Project](https://github.com/Heryourmeekun/brain-tumor-mri-classification)**
+🔗 **[View Project](https://github.com/Heryourmeekun/brain-tumor-mri-classification)**
 
 **Tools:** `Python` `TensorFlow` `Keras` `MobileNetV2` `CNN` `Scikit-learn` `SVM` `NumPy` `Matplotlib`
 
@@ -87,7 +85,7 @@ I compared two deep learning approaches:
 
 Although the results were lower than expected, the project provided valuable insight into **NLP model behavior, class bias, fine-tuning, computational limitations, and model evaluation**.
 
-🔗 **[View BBC News Text Classification Project](https://github.com/Heryourmeekun/BBC-News-Text-Classification)**
+🔗 **[View Project](https://github.com/Heryourmeekun/BBC-News-Text-Classification)**
 
 **Tools:** `Python` `TensorFlow` `Keras` `LSTM` `BERT` `NLP` `Scikit-learn`
 
@@ -115,7 +113,7 @@ The project analyses financial performance, revenue trends, customer behaviour, 
 **Tools & Technologies:**
 `Power BI` `DAX` `Power Query` `Data Modelling` `Data Visualization` `Business Intelligence`
 
-🔗 **[View Project on GitHub](https://github.com/Heryourmeekun/IITA-Financial-Analysis-PowerBI)**
+🔗 **[View Project](https://github.com/Heryourmeekun/IITA-Financial-Analysis-PowerBI)**
 
 ---
 
@@ -215,10 +213,6 @@ These findings can help guide decisions about recipe promotion, although they sh
 - Translating predictive results into practical business recommendations.
 
 ## 🔗 Project Repository
-
-[**View the complete project on GitHub**](https://github.com/Heryourmeekun/Recipe_Traffic_Prediction)
-
-
 
 🔗 **[View Project](https://github.com/Heryourmeekun/Recipe_Traffic_Prediction)**
 
